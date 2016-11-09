@@ -1,2 +1,2 @@
 # SPEBP2
-Stored Procedures for EBP2 Integration
+Stored Procedures programmed in SQL Server for EBP2 Integration
