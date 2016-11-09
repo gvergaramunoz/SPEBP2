@@ -1,0 +1,5 @@
+CREATE PROCEDURE consultarCCosto
+AS
+BEGIN
+	SELECT Cod_CCos, Des_CCos from ADCB03
+END
